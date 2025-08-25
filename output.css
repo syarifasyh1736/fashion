@@ -228,10 +228,11 @@
   .mt-\[60px\] {
     margin-top: 60px;
   }
-  .mr-4 {
-    margin-right: calc(var(--spacing) * 4);
   .mr-3 {
     margin-right: calc(var(--spacing) * 3);
+  }
+  .mr-4 {
+    margin-right: calc(var(--spacing) * 4);
   }
   .mr-\[25px\] {
     margin-right: 25px;
